@@ -1,0 +1,7 @@
+body{
+    background-color: rgba(201, 232, 235, 1) !important;
+}
+.btn{
+    background: linear-gradient(180deg, #C3E2E5 0%, #C3E2E5 100%);
+    box-shadow: #C3E2E5;
+      }

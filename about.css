@@ -1,0 +1,45 @@
+.btn{
+    background: linear-gradient(180deg, #C3E2E5 0%, #C3E2E5 100%);
+    box-shadow: #C3E2E5;
+  }
+  .about{
+    font-size: 18px;
+    }
+  .kalam{
+    font-size: 18px;
+    }
+    .more{
+    font-size: small;
+    }
+    .main{
+        display: inline-block;
+    }
+    .card1{
+        display: inline-block;
+        margin-left: 30%;
+        margin-top: 30%;
+    }
+    .logo{
+        display: inline-block;
+        color: #7ecbd2;
+        font-size:  80px ;
+        font-family: 'Inter';
+    }
+    .name{
+        display: inline-block;
+        color: black;
+        font-size: 70px;
+        font-family: 'Inter';
+    }
+    body{
+        background-color: rgba(201, 232, 235, 1) !important;
+    }
+    .card2{
+        display: inline-block;
+        margin-top: -20%;
+        margin-left: 100%;
+    }
+    .about
+    {
+        font-size: 25px;
+    }
